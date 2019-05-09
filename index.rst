@@ -3,6 +3,8 @@
 Suru Icons
 ==========
 
+`Return to the developer documentation <http://docs.ubports.com/en/latest/appdev/index.html>`__
+
 This is a list of all the Suru icons available for use with the `Icon <https://api-docs.ubports.com/sdk/apps/qml/Ubuntu.Components/Icon.html>`__ QML component.
 
 Example Usage
