@@ -3,7 +3,7 @@ table {
 }
 
 p {
-    text-align: justify; 
+    text-align: justify;
 }
 
 .logo {
@@ -30,4 +30,8 @@ p {
 .wy-table-responsive
 {
     overflow: visible !important;
+}
+
+.wy-nav-content {
+    max-width: 900px;
 }
