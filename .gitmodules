@@ -1,3 +1,3 @@
 [submodule "ubuntu-themes"]
 	path = ubuntu-themes
-	url = git@github.com:ubports/ubuntu-themes.git
+	url = https://github.com/ubports/ubuntu-themes.git
